@@ -1,0 +1,5 @@
+[06-Dec-2019 22:45:36 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techstit/public_html/admin/process/conn.php:11) in /home/techstit/public_html/admin/process/product_update.php on line 34
+[06-Dec-2019 23:23:07 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/techstit/public_html/admin/process/product_process.php on line 8
+[06-Dec-2019 23:23:07 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/techstit/public_html/admin/process/product_process.php on line 9
+[06-Dec-2019 23:23:27 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/techstit/public_html/admin/process/product_process.php on line 8
+[06-Dec-2019 23:23:27 Asia/Karachi] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/techstit/public_html/admin/process/product_process.php on line 9
